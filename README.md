@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryakapoor124
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python
+- 👀 Just a Computer Science Student.
+- 🌱 I'm Lazy but trying to be productive.
 
 <!---
 suryakapoor124/suryakapoor124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
